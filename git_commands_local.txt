@@ -1,0 +1,8 @@
+git init - to initiate git
+git status - to check the code has been addded to the staging area
+git add "filename" - to add the file into git
+git commit -m "chapter 1 completed" - to commit messages
+git log - to check the log file
+git checkout - (for mac)/ to restore to previous verrsion
+git restore "file name" - for windows/ to restore to previous version
+git remote add origin "github username link.git"
